@@ -1,0 +1,17 @@
+* How does my gem take advantage of Ruby's metaprogramming capabilities
+
+1) Dynamically generate methods attached to the String class from a list
+of methods names and the corresponding color codes using 'send' and
+'define_method'
+2) Dynamically call these methods using 'send' to demonstrate the colors
+that the methods apply.
+
+* How long
+About three hours, but quite a bit of time was wasted on the define_method
+part until I worked it out.
+
+* Most rewarding
+Getting it working, and getting it nice and clean
+
+* Room to grow
+Some practice on the method_missing concept would help bed understanding down.

@@ -1,7 +1,6 @@
 # rbnd-colorizr
 Colorizr gem to add colour options to the String class
-
-++ Overview
+## Overview
 This gem adds color methods to the String class to provide the ability to
 apply color to strings
 ++ Usage
